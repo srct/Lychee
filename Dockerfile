@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Studnt-Run Computing and Technology - GMU
+MAINTAINER Student-Run Computing and Technology - GMU
 
 # Install base packages
 RUN apt-get update
